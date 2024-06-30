@@ -5,7 +5,9 @@ FunctionsAndErrors is a simple Solidity contract demonstrating the use of error 
 
 # Prerequisites
 Solidity ^0.8.25
+
 Ethereum development environment (e.g., Truffle, Hardhat)
+
 Ethereum wallet (e.g., MetaMask) for deploying and interacting with the contract
 
 # Usage
